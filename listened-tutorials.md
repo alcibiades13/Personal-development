@@ -1,0 +1,23 @@
+# Tutorials I've listened
+
+- Building a Responsive Single Page Design
+- Egghead - Angular lessons
+- Web design workflow with Sass and compass
+- Basic rules of great form design
+- Javascript - Understanding the weird parts
+- Hands-on Angular
+- RESTful Web Services with Node.js and Express
+- jQuery Creating Plugins
+- Git Essential Training
+- WordPress Essential Training
+- Pro Web Design Workflow with Adi Purdila
+- Understanding responsive images
+- Put Javascript design patterns into practice
+- Futuristic landscape painting
+- Designing a Logo for a Band
+- Play by Play - Learning AngularJS With Ken Cenerelli and John Papa
+- AngularJS: Get Started
+- Connected to the Backbone
+- Learn and Understand AngularJS
+- Performance Matters - Optimizing Page Load
+- 
