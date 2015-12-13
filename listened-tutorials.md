@@ -1,5 +1,7 @@
 # Tutorials I've listened
 
+(Unchecked == unfinished, :star: == outstanding)
+
 - [x] Building a Responsive Single Page Design
 - [x] Egghead - Angular lessons
 - [x] Web design workflow with Sass and compass
