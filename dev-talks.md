@@ -1,7 +1,7 @@
 # Listened Dev/Conference talks
 
 | Title           | Author                              |
-| --------------- | ----------------------------------- |
+| :------------: | :----------------------------: |
 | Jafar Husain    | Asynchronous Programming at Netflix |
 | Sarah Drasner   | Complex Responsive Animations       |
 | Angelina Fabbro | JavaScript Masterclas               |
