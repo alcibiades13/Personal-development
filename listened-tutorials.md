@@ -20,4 +20,4 @@
 - Connected to the Backbone
 - Learn and Understand AngularJS
 - Performance Matters - Optimizing Page Load
-- 
+- AngularJS: Adding Registration to Your Application
