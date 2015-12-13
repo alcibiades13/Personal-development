@@ -1,9 +1,9 @@
 # Listened Dev/Conference talks
 
-| Title           | Author                              |
-| :------------: | :----------------------------: |
-| Jafar Husain    | Asynchronous Programming at Netflix |
-| Sarah Drasner   | Complex Responsive Animations   |
-| Angelina Fabbro | JavaScript Masterclas           |
-| Val Head        | Motion Design with CSS       | 
-| Raquel Vélez    | Evolution of a Developer      |
+| Title                               | Author       |
+| :----------------------------: | :-------------: |
+| Asynchronous Programming at Netflix | Jafar Husain    |
+| Complex Responsive Animations   | Sarah Drasner   |
+| JavaScript Masterclas           | Angelina Fabbro |
+| Motion Design with CSS        | Val Head        |
+| Evolution of a Developer      | Raquel Vélez    |
