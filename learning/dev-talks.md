@@ -14,3 +14,4 @@
 | Motion Design with CSS        | Val Head     |
 | Evolution of a Developer      | Raquel Vélez    |
 | Things Laravel Made Me Believe | Jeffrey Way |
+| Classical Inheritance is Obsolete: How to Think in Prototypal OO | Eric Elliot |
