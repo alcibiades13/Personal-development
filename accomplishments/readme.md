@@ -1,1 +1,31 @@
-The syntax of the command is incorrect.
+# Weekly to-do
+
+## December 13, 2015
+
+### Things I'll do this week
+- [ ] Go through [this](https://github.com/mrdavidlaing/javascript-koans) Javascript koans testing with Jasmine
+- [ ] Make Orbb sidebar responsive - toggles on click
+- [ ] Learn more about TDD and start using it in a project
+- [ ] Go through - [rscss.io](http://rscss.io/index.html) - Styling CSS best practice and conventions
+- [ ] Finish reading [this](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/) Eric Elliot - Programming JavaScript Application
+- [ ] Listen to [this](https://www.youtube.com/watch?v=3QOh955yh0Y&feature=youtu.be&a) ES6 introduction 
+- [ ] Add more bands to [Enter Night](http://www.enter-night.com) website (2 bands per day at least)
+- [ ] Add contact form to Orbb framework website
+- [ ] Listen to [this](http://webdesign.tutsplus.com/courses/greensock-animation-platform-first-steps) tutorial about Greensock animation
+- [ ] Continue working on the quotes app - implement RESTful API
+- [ ] Fix slider max-width on high resolution screens on Orbb website
+- [ ] Redesign logo for angular 'Cinema Time' app
+- [ ] Go through [this](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/) Shu Uesugi's React.js Introduction 
+
+### Things I did previous week
+- [x] Implemented features to Orbb - Sliders, modals, tables, pie charts
+- [x] Minified framework's scripts and styles and optimized images with Grunt and pushed it on Github
+- [x] [Flexbox froggy](http://flexboxfroggy.com/)
+- [x] Learned a lot about SVG animations - listened talks from Chris Coyier, Val Head, Sarah Drasner, Una Kravets
+- [x] Made [this](http://codepen.io/alcibiades13/pen/eJNNao) cool animation inspired by Ana Tudor's work
+- [x] Separated [Enter Night](http://www.enter-night.com) bands into different directories (should push online)
+- [x] Made wireframe and basic design for new "Quotes" web app
+- [x] Listened to Jeffrey Way's "Connected to the Backbone" tutorial
+- [x] Added toggle button to [orbb website](http://orbbframework.com) so user's can switch between day and night mode while reading code
+- [x] Started reading Eric Elliot's [JS book](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/)
+- [x] Migrated lists and tasks from Trello to Github
