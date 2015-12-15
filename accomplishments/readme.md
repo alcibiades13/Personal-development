@@ -23,9 +23,9 @@
 - [ ] [Flexbox froggy](http://flexboxfroggy.com/)
 - [ ] Learned a lot about SVG animations - listened talks from Chris Coyier, Val Head, Sarah Drasner, Una Kravets
 - [ ] Made [this](http://codepen.io/alcibiades13/pen/eJNNao) cool animation inspired by Ana Tudor's work
-- [ ] Separated [Enter Night](http://www.enter-night.com) bands into separate directories (should push online)
+- [ ] Separated [Enter Night](http://www.enter-night.com) bands into different directories (should push online)
 - [ ] Made wireframe and basic design for new "Quotes" web app
 - [ ] Listened to Jeffrey Way's "Connected to the Backbone" tutorial
 - [ ] Added toggle button to [orbb website](http://orbbframework.com) so user's can switch between day and night mode while reading code
-- [ ] Started reading Eric Elliot's [JS book](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/) Eric Elliot
+- [ ] Started reading Eric Elliot's [JS book](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/)
 - [ ] Migrated lists and tasks from Trello to Github
