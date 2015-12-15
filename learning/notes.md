@@ -5,7 +5,7 @@
 
 - type correctness does not guarantee program correctness!
 - you should be using automated testing for every program
-- Use *jshint* - variable name typos, underfined variables, unused variables, cyclomatic complexity
+- use *jshint* - variable name typos, underfined variables, unused variables, cyclomatic complexity
 - *tern.js* - autocompletion on variables and properties, function argument hints...
 - *trace.gl* - for debugging - records every single function call, traces every value as it flows through program
 - *dominators view* in chrome dev tools - making sure objects are being garbage collected
