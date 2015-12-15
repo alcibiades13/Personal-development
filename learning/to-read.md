@@ -9,4 +9,4 @@
 - [ ] Jeffrey Way - JavaScript Testing With Jasmine tutorial
 - [ ] Read this new book by Eric Elliot - Programming JavaScript Application - https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/
 - [ ] Read this post by Eric Elliot - The Two Pillars of JavaScript - https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.p3ozj07cv
-- [ ] Listen to this ES6 introduction
+- [ ] Listen to [this](https://www.youtube.com/watch?v=3QOh955yh0Y&feature=youtu.be&a) ES6 introduction 
