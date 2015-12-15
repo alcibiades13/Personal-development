@@ -1,4 +1,4 @@
-# Weekly report
+# Weekly review
 
 ## December 13, 2015
 ### Things I did this week
