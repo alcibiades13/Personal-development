@@ -1,7 +1,7 @@
 # Weekly report
 
 ## December 13, 2015
-### Things I did
+### Things I did this week
 - [x] Implemented features to Orbb - Sliders, modals, tables, pie charts
 - [x] Minified framework's scripts and styles and optimized images with Grunt and pushed it on Github
 - [x] [Flexbox froggy](http://flexboxfroggy.com/)
