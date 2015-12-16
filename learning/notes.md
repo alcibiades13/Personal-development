@@ -92,7 +92,7 @@
 
 ## Most popular web fonts with sans serif and serif typefaces (dramathic typography)
 
-- Sans Serif (more in trend)
+- Sans Serif
 	1. Proxima Nova
 	2. Futura
 	3. Open Sans
