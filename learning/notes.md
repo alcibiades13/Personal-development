@@ -77,3 +77,33 @@
 	- An introductory page – or splash page – that precedes a homepage has been around for several years now (especially for sites with a product to sell).
 	- The concept makes sense: the user obviously is interested in the site’s purpose, so why not show them what you offer right off the bat? For an author selling a book, it’s perfect. For an online magazine looking for subscribers, just as good.
 	- Be wary of overusing this trend, but, as long as you stick to the two rules of sales (be concise and provoke action!), you should be fine!
+
+
+## Rules of great form design (Adi Purdila)
+
+- Organize the form properly
+- Show helper text
+- Use the correct input type and length
+- Provide clear labels for each field
+- Let users know about the expected input format
+- Give feedback
+- Think about users on mobile devices
+- Don't ask for unnecessary information
+
+## Most popular web fonts with sans serif and serif typefaces (dramathic typography)
+
+- Sans Serif (more in trend)
+	1. Proxima Nova
+	2. Futura
+	3. Open Sans
+	4. Helvetica Neue
+	5. Avenir
+	6. Montserrat
+
+- Serif
+	1. Caslon
+	2. Garamond
+	3. Freight Text
+	4. Minion
+	5. FF Meta Serif
+
