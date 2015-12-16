@@ -52,7 +52,7 @@
 ## 5 web design predictions for 2016 - Barrett Self
 
 1. Rich animation
-	It’s no longer the goal to merely impress a user visually while offering great content. These days, users want to be ENTERTAINED! Enter animation.
+	- It’s no longer the goal to merely impress a user visually while offering great content. These days, users want to be ENTERTAINED! Enter animation.
 
 	- Loading animations - Utilized to entertain and occupy users while a site transitions into a new page or feature. 
 	- Hover Animations – Used to offer insight on an image, tab or graphic’s function. 
@@ -60,28 +60,20 @@
 	- Smooth Scrolling – Allows a seamless transition between pages and site elements. Besides being fun, this trend also allows users to go at their own pace and reduces eye-fatigue.
 
 2. Minimalism
-	When it comes to web design, less is often more. There are many reasons for this: chiefly, it allows a site to be bandwidth-conscious while ensuring the user isn’t overwhelmed. But on top of that, the simplicity of such a design can be stunning.
-
-	It would seem that this trend is in opposition to Rich Animation, but on the contrary. When used most effectively, rich animation is applied to a minimalistic design. This way, the focus stays on the animation and the user isn’t distracted by unnecessary information.
-
-	One specific form of minimalism are flat designs. Which oh, by the way, have SKYROCKETED in 2015! For those of you who are already masters of flat design, good news: their presence is only going to expand in the coming year.
+	- When it comes to web design, less is often more. There are many reasons for this: chiefly, it allows a site to be bandwidth-conscious while ensuring the user isn’t overwhelmed. But on top of that, the simplicity of such a design can be stunning.
+	- It would seem that this trend is in opposition to Rich Animation, but on the contrary. When used most effectively, rich animation is applied to a minimalistic design. This way, the focus stays on the animation and the user isn’t distracted by unnecessary information.
+	- One specific form of minimalism are flat designs. Which oh, by the way, have SKYROCKETED in 2015! For those of you who are already masters of flat design, good news: their presence is only going to expand in the coming year.
 
 3. Graphic text
-
-	Type placed within a graphic, positioned over an image, on top of a color pattern… seem like a bit much? In some cases, BUT, if you have a good eye for design – always striving for readability, complimentary colors, and proper focal points – you can transform these dynamic elements into a cohesive experience (one that the end users will thank you for).
+	- Type placed within a graphic, positioned over an image, on top of a color pattern… seem like a bit much? In some cases, BUT, if you have a good eye for design – always striving for readability, complimentary colors, and proper focal points – you can transform these dynamic elements into a cohesive experience (one that the end users will thank you for).
 
 4. Apps, apps, and more apps!
-	To say that the app business is booming is an understatement.
-
-	With app integration into web browers, operating systems, and website templates, the trend will only continue to grow. Unfortunately, its not all roses when it comes to the app surge.
-
-	An understanding of the available and trending apps that are out there is a must, but their widespread incorporation? Not so much.
-
-	Tred lightly with this trend!
+	- To say that the app business is booming is an understatement.
+	- With app integration into web browers, operating systems, and website templates, the trend will only continue to grow. Unfortunately, its not all roses when it comes to the app surge.
+	- An understanding of the available and trending apps that are out there is a must, but their widespread incorporation? Not so much.
+	- Tred lightly with this trend!
 
 5. Intro pages
-	An introductory page – or splash page – that precedes a homepage has been around for several years now (especially for sites with a product to sell).
-
-	The concept makes sense: the user obviously is interested in the site’s purpose, so why not show them what you offer right off the bat? For an author selling a book, it’s perfect. For an online magazine looking for subscribers, just as good.
-
-	Be wary of overusing this trend, but, as long as you stick to the two rules of sales (be concise and provoke action!), you should be fine!
+	- An introductory page – or splash page – that precedes a homepage has been around for several years now (especially for sites with a product to sell).
+	- The concept makes sense: the user obviously is interested in the site’s purpose, so why not show them what you offer right off the bat? For an author selling a book, it’s perfect. For an online magazine looking for subscribers, just as good.
+	- Be wary of overusing this trend, but, as long as you stick to the two rules of sales (be concise and provoke action!), you should be fine!
