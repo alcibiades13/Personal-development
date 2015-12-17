@@ -6,10 +6,10 @@
 - [ ] [rscss.io](http://rscss.io/index.html) - Styling CSS without losing your sanity
 - [ ] Check out this new JS library by Lea Verou - http://blissfuljs.com/
 - [ ] Listen to this tutorial - Testing Clientside JavaScript
-- [ ] Jeffrey Way - JavaScript Testing With Jasmine tutorial
+- [x] Jeffrey Way - JavaScript Testing With Jasmine tutorial
 - [ ] Read [this](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/) new book by Eric Elliot - Programming JavaScript Application
 - [x] Read [this](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.p3ozj07cv) post by Eric Elliot - The Two Pillars of JavaScript 
-- [ ] Listen to [this](https://www.youtube.com/watch?v=3QOh955yh0Y&feature=youtu.be&a) ES6 introduction 
+- [x] Listen to [this](https://www.youtube.com/watch?v=3QOh955yh0Y&feature=youtu.be&a) ES6 introduction 
 - [ ] Read [this](https://davidwalsh.name/javascript-objects) series of aricles about JavaScript objects by Kyle Simposon
 - [ ] Read [this](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b#.m9ps4ipvv) post by Addy Osmani about JS app architecture
 - [ ] Read [this](https://medium.com/google-developers/devtools-tips-for-sublime-text-users-cdd559ee80f8#.w0u538hsc) Addy Osmani devtools tips for Sublime Text users 
