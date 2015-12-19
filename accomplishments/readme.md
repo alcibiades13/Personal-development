@@ -35,3 +35,9 @@
 - [x] Added toggle button to [orbb website](http://orbbframework.com) so user's can switch between day and night mode while reading code
 - [x] Started reading Eric Elliot's [JS book](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/)
 - [x] Migrated lists and tasks from Trello to Github
+
+### Things I'll do in the future
+
+- [ ] Plan your dev goals for 2016 - 2 columns - col1: Things I wan't to improve, col2: Project ideas
+- [ ] Refactor Enter Night website
+- [ ] Read Addy Osmani's Javascript design patterns again
