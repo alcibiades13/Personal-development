@@ -16,5 +16,5 @@
 - [ ] [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd#.nlefv847s) - Functional programming tips
 - [ ] [Reactive Programming Overview](https://www.youtube.com/watch?v=dwP1TNXE6fc) talk by Jafar Husain from Netflix
 - [ ] API design principles - [talk](https://www.youtube.com/watch?v=HYl7ReNB5TA) by Ariya Hidayat
-- [ ] Read [this](https://css-tricks.com/gulp-for-beginners/) gulp introduction on css-tricks
-- [ ] How to forget jQuery and start using native js - [link](http://blog.romanliutikov.com/post/63383858003/how-to-forget-about-jquery-and-start-using-native)
+- [x] Read [this](https://css-tricks.com/gulp-for-beginners/) gulp introduction on css-tricks
+- [x] How to forget jQuery and start using native js - [link](http://blog.romanliutikov.com/post/63383858003/how-to-forget-about-jquery-and-start-using-native)
