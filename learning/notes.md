@@ -1,7 +1,7 @@
 # Notes from dev talks and tutorials
 
 
-## Eric Elliott -  Fluent 2014 JavaScript Talk - Static Types are Overrated 
+## Eric Elliott -  Fluent 2014 JavaScript Talk - Static Types are Overrated
 
 - type correctness does not guarantee program correctness!
 - you should be using automated testing for every program
@@ -54,8 +54,8 @@
 1. Rich animation
 	- It’s no longer the goal to merely impress a user visually while offering great content. These days, users want to be ENTERTAINED! Enter animation.
 
-	- Loading animations - Utilized to entertain and occupy users while a site transitions into a new page or feature. 
-	- Hover Animations – Used to offer insight on an image, tab or graphic’s function. 
+	- Loading animations - Utilized to entertain and occupy users while a site transitions into a new page or feature.
+	- Hover Animations – Used to offer insight on an image, tab or graphic’s function.
 	- Motion Animations – The easiest way to grab a user’s attention? MOTION! Motion animation can be a GREAT marketing tool when done right.
 	- Smooth Scrolling – Allows a seamless transition between pages and site elements. Besides being fun, this trend also allows users to go at their own pace and reduces eye-fatigue.
 
@@ -107,3 +107,33 @@
 	4. Minion
 	5. FF Meta Serif
 
+
+## SmashingConf Barcelona 2015: Espen Brunborg — Is the Internet Killing Creativity?
+
+ - We have all this tools and we're stuck in this pattern of doing the same things over and over again
+ - If we're creative at this point, it's pointless and even harmful
+ - All the tools we've created are turning against us
+ - Robots are taking over designer jobs
+ - But there's hope
+ - Wake up, Neo
+ - Right now we're thinking "flat design"
+ - But we did not reach post-modernism
+ - "Do all websites need to look exactly the same" - Jeffrey Zeldman
+ - 3 obstacles
+ 	- Content (CMS workflow: Design - Build - Content), designing without content. We no longer add meaning through design
+	- We fall in love with sexy (Without content, we start to focus on the finish, the gradient, drop shadows, sexy things and stick them on dribble). Is graphic design just sum of it's parts?
+ - As designers we need to bring content back into process. Reclaim it. The way it was before CMS.
+ - Use meaningful images
+ - Unleash your inner copywriter. Write something meaningful, doesn't have to be essay
+ - It works the other way around as well. If you have a word synergy for example, what image should you add to represent it
+ - Synergy - Flower and the Bee? Two elephants in love?
+ - CREATE FOR CONTENT!
+ - Do we need to CMS everything?
+ - News, events, product - need CMS
+ - Feature, campaign, about - no CMS
+ - We become arrogant
+ - Everyone's full of rules
+ - Break out of A-B testing (for example google analytics testing on hamburber menus, with or without outline border, with the word menu or without). Try something stuff and don't trust other people's A-B tests
+ - FUCK THE RULES - *RESPONSIBLY*
+ - Robots don't have imagination and curiousity. They don't have heart.
+ - We need to keep our heart, step away from twitter, not just look at the rules

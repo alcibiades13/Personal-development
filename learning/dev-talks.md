@@ -15,3 +15,4 @@
 | Evolution of a Developer      | Raquel Vélez    |
 | Things Laravel Made Me Believe | Jeffrey Way |
 | Classical Inheritance is Obsolete: How to Think in Prototypal OO | Eric Elliot |
+| Is the Internet Killing Creativity? | Espen Brunborg - SmashingConf Barcelona 2015 |
