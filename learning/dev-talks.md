@@ -16,3 +16,4 @@
 | Things Laravel Made Me Believe | Jeffrey Way |
 | Classical Inheritance is Obsolete: How to Think in Prototypal OO | Eric Elliot |
 | Is the Internet Killing Creativity? | Espen Brunborg - SmashingConf Barcelona 2015 |
+| How to Crash an Airplane | Nickolas Means - RubyConf 2015  |
