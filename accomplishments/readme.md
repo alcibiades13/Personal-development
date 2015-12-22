@@ -16,6 +16,8 @@
 - [ ] Listen to [this](https://www.youtube.com/watch?v=xsSnOQynTHs&feature=youtu.be) awesome talk about React workflow one more time
 - [ ] Listen to [this](https://vimeo.com/144768071) talk about Modern Progressive Enhancement
 - [ ] Add new bands to Enter Night website
+- [ ] Go through [this](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-introduction?series=how-to-write-an-open-source-javascript-library) Egghead tutorial on creating an open source JS library
+- [ ] Listen to Egghead's introduction to React
 - [ ] Write about my dev goals for 2016
 
 ### Things I did this week
