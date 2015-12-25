@@ -45,3 +45,4 @@
 - [ ] API design principles - [talk](https://www.youtube.com/watch?v=HYl7ReNB5TA) by Ariya Hidayat
 - [ ] [Reactive Programming Overview](https://www.youtube.com/watch?v=dwP1TNXE6fc) talk by Jafar Husain from Netflix
 - [ ] Read [this](https://davidwalsh.name/javascript-objects) series of aricles about JavaScript objects by Kyle Simpson
+- [ ] Finish [this](http://reactivex.io/learnrx/) functional programming testing project

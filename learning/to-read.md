@@ -18,3 +18,5 @@
 - [ ] API design principles - [talk](https://www.youtube.com/watch?v=HYl7ReNB5TA) by Ariya Hidayat
 - [x] Read [this](https://css-tricks.com/gulp-for-beginners/) gulp introduction on css-tricks
 - [x] How to forget jQuery and start using native js - [link](http://blog.romanliutikov.com/post/63383858003/how-to-forget-about-jquery-and-start-using-native)
+- [ ] [How getting into Open Source has been awesome for me](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.ba4yvsu51)
+- [ ] Web/graphic design [predictions](https://ernestoolivares.com/2015/12/01/graphic-design-predictions-2016/) for 2016
