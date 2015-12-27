@@ -3,21 +3,21 @@
 ## December 13, 2015
 
 ### Things I'll do this week
-- [ ] Learn more about TDD and start using it in a project
+- [x] Learn more about TDD and start using it in a project
 - [ ] Finish reading [this](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/) Eric Elliot - Programming JavaScript Application
 - [ ] Add contact form to Orbb framework website
-- [ ] Continue working on your personal website
+- [x] Continue working on your personal website
 - [ ] Fix slider max-width on high resolution screens on Orbb website
-- [ ] Go through [this](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/) Shu Uesugi's React.js Introduction
-- [ ] Read [this](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b#.m9ps4ipvv) post by Addy Osmani about JS app architecture
-- [ ] Read [this](https://medium.com/google-developers/devtools-tips-for-sublime-text-users-cdd559ee80f8#.w0u538hsc) Addy Osmani devtools tips for Sublime Text users
-- [ ] Continue teaching your friends on how to develop web apps. Check in with them every day!
-- [ ] Write a blog post about Flexbox
+- [x] Go through [this](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/) Shu Uesugi's React.js Introduction
+- [x] Read [this](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b#.m9ps4ipvv) post by Addy Osmani about JS app architecture
+- [x] Read [this](https://medium.com/google-developers/devtools-tips-for-sublime-text-users-cdd559ee80f8#.w0u538hsc) Addy Osmani devtools tips for Sublime Text users
+- [x] Continue teaching your friends on how to develop web apps. Check in with them every day!
+- [x] Write a blog post about Flexbox
 - [ ] Listen to [this](https://www.youtube.com/watch?v=xsSnOQynTHs&feature=youtu.be) awesome talk about React workflow one more time
 - [ ] Listen to [this](https://vimeo.com/144768071) talk about Modern Progressive Enhancement
-- [ ] Add new bands to Enter Night website
-- [ ] Go through [this](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-introduction?series=how-to-write-an-open-source-javascript-library) Egghead tutorial on creating an open source JS library
-- [ ] Listen to Egghead's introduction to React
+- [x] Add new bands to Enter Night website
+- [x] Go through [this](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-introduction?series=how-to-write-an-open-source-javascript-library) Egghead tutorial on creating an open source JS library
+- [x] Listen to Egghead's introduction to React
 - [ ] Write about my dev goals for 2016
 
 ### Things I did this week

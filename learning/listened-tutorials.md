@@ -22,4 +22,5 @@
 - [ ] Connected to the Backbone :star:
 - [x] Learn and Understand AngularJS
 - [x] Performance Matters - Optimizing Page Load
-- [ ] AngularJS: Adding Registration to Your Application[x] 
+- [ ] AngularJS: Adding Registration to Your Application[x]
+- [x] [Egghead tutorial](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-introduction?series=how-to-write-an-open-source-javascript-library) Egghead tutorial on creating an open source JS library on
