@@ -3,39 +3,41 @@
 ## December 13, 2015
 
 ### Things I'll do this week
-- [x] Learn more about TDD and start using it in a project
+- [ ] Learn more about TDD
 - [ ] Finish reading [this](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/) Eric Elliot - Programming JavaScript Application
 - [ ] Add contact form to Orbb framework website
-- [x] Continue working on your personal website
+- [ ] Continue testing the framework by including in all of this week's projects
+- [ ] Finish the work on my personal/fun website
 - [ ] Fix slider max-width on high resolution screens on Orbb website
-- [x] Go through [this](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/) Shu Uesugi's React.js Introduction
-- [x] Read [this](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b#.m9ps4ipvv) post by Addy Osmani about JS app architecture
-- [x] Read [this](https://medium.com/google-developers/devtools-tips-for-sublime-text-users-cdd559ee80f8#.w0u538hsc) Addy Osmani devtools tips for Sublime Text users
-- [x] Continue teaching your friends on how to develop web apps. Check in with them every day!
-- [x] Write a blog post about Flexbox
+- [ ] Continue teaching friends how to develop web apps. Check in with them every day!
+- [ ] Write a blog post about Module pattern
 - [ ] Listen to [this](https://www.youtube.com/watch?v=xsSnOQynTHs&feature=youtu.be) awesome talk about React workflow one more time
 - [ ] Listen to [this](https://vimeo.com/144768071) talk about Modern Progressive Enhancement
-- [x] Add new bands to Enter Night website
-- [x] Go through [this](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-introduction?series=how-to-write-an-open-source-javascript-library) Egghead tutorial on creating an open source JS library
-- [x] Listen to Egghead's introduction to React
-- [ ] Write about my dev goals for 2016
+- [ ] Add new bands to Enter Night website. Work on SEO
+- [ ] Think through that bug where sometimes song video doesn't load the link correctly
+- [ ] Listen to Egghead's introduction to React
+- [ ] Start reading EloquentJS again
+- [ ] Contribute to open source
+- [ ] Write about my dev goals for 2016: 2 columns - col1: Things I wan't to improve, col2: Project ideas
+
 
 ### Things I did this week
-- [x] Go through [this](https://github.com/mrdavidlaing/javascript-koans) Javascript koans testing with Jasmine
-- [x] Make Orbb sidebar responsive - toggles on click
-- [x] Go through - [rscss.io](http://rscss.io/index.html) - Styling CSS best practice and conventions
-- [x] Listen to [this](https://www.youtube.com/watch?v=3QOh955yh0Y&feature=youtu.be&a) ES6 introduction
-- [x] Add more bands to [Enter Night](http://www.enter-night.com) website (2 bands per day at least)
-- [x] Listen to [this](http://webdesign.tutsplus.com/courses/greensock-animation-platform-first-steps) tutorial about Greensock animation
-- [x] Redesigned logo for angular 'Cinema Time' app
-- [x] Started testing Orbb framework by developing couple of new websites
-- [x] Read [this](http://wesbos.com/javascript-modules/) introduction to npm and ES6 modules for front-end development
-- [x] Read [this](http://blog.romanliutikov.com/post/63383858003/how-to-forget-about-jquery-and-start-using-native) nice post on how to 'forget jQuery and start using native JS'
-- [x] Listened dev podcasts every day
-- [x] Reorganized Enter Night website by moving band pages into separate subdomain
-- [x] Read half through Programming JavaScript applications book by Eric Elliot
-- [x] Started working on my personal website - designed and developed 4 pages
-- [x] Listened [these](https://www.youtube.com/watch?v=S2FUSr3WlPk) [two](https://vimeo.com/145055819) awesome dev talks - Is internet killing creativity? and How to crash an airplane
+- [x] Designed and developed most of my personal website
+- [x] Started the tutsplus tutorial on new Foundation 6 features
+- [x] Developed mini library for retrieving all or random Middle earth names
+- [x] Pushed library to github, npm, tested with mocha
+- [x] Went through [this](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/) Shu Uesugi's React.js Introduction. Created Twitter handle
+- [x] Added new bands to Enter Night website and fixed some stuff for SEO
+- [x] Went through [this](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-introduction?series=how-to-write-an-open-source-javascript-library) Egghead tutorial on creating an open source JS library
+- [x] Read [this](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b#.m9ps4ipvv) post by Addy Osmani about JS app architecture
+- [x] Read [this](https://medium.com/google-developers/devtools-tips-for-sublime-text-users-cdd559ee80f8#.w0u538hsc) Addy Osmani devtools tips for Sublime Text users
+- [x] Added blog page on my website
+- [x] Wrote a [blog article](http://teofilex.com/blog.html) about Flexbox
+- [x] [12 Rules for Professional JavaScript in 2015](https://medium.com/@housecor/12-rules-for-professional-javascript-in-2015-f158e7d3f0fc#.xw53g8kf6)
+- [x] Started the JavaScript quiz/game app
+- [x] Listened to Pluralsight course on starting with Webpack
+- [x] Developed starting webapp structure for couple of friends to play with. Added simple content and commented every single line of code for them to get familiar.
+- [x] Read couple of chapters from Eric Elliot's [JS book](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/)
 
 ### Things I'll do in the future
 

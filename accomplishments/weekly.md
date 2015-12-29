@@ -31,3 +31,23 @@
 - [x] Read half through Programming JavaScript applications book by Eric Elliot
 - [x] Started working on my personal website - designed and developed 4 pages
 - [x] Listened [these](https://www.youtube.com/watch?v=S2FUSr3WlPk) [two](https://vimeo.com/145055819) awesome dev talks - Is internet killing creativity? and How to crash an airplane
+
+## December 27, 2015
+### Things I did this week
+
+- [x] Designed and developed most of my personal website
+- [x] Started the tutsplus tutorial on new Foundation 6 features
+- [x] Developed mini library for retrieving all or random Middle earth names
+- [x] Pushed library to github, npm, tested with mocha
+- [x] Went through [this](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/) Shu Uesugi's React.js Introduction. Created Twitter handle
+- [x] Added new bands to Enter Night website and fixed some stuff for SEO
+- [x] Went through [this](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-introduction?series=how-to-write-an-open-source-javascript-library) Egghead tutorial on creating an open source JS library
+- [x] Read [this](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b#.m9ps4ipvv) post by Addy Osmani about JS app architecture
+- [x] Read [this](https://medium.com/google-developers/devtools-tips-for-sublime-text-users-cdd559ee80f8#.w0u538hsc) Addy Osmani devtools tips for Sublime Text users
+- [x] Added blog page on my website
+- [x] Wrote a [blog article](http://teofilex.com/blog.html) about Flexbox
+- [x] [12 Rules for Professional JavaScript in 2015](https://medium.com/@housecor/12-rules-for-professional-javascript-in-2015-f158e7d3f0fc#.xw53g8kf6)
+- [x] Started the JavaScript quiz/game app
+- [x] Listened to Pluralsight course on starting with Webpack
+- [x] Developed starting webapp structure for couple of friends to play with. Added simple content and commented every single line of code for them to get familiar.
+- [x] Read couple of chapters of Eric Elliot's [JS book](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/)
