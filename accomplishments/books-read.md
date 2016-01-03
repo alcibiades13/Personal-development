@@ -12,7 +12,7 @@
 - [x] - Herman Hesse - Demian
 - [x] - Nick Offerman - Paddle Your Own Canoe
 - [x] - Ernest Hemingway - The Sun Also Rises
-- [x] - Irvin Yalom - Wwhen Nietzsche Wept 
+- [x] - Irvin Yalom - Wwhen Nietzsche Wept
 - [x] - J.R.R. Tolkien - Fellowship of the Ring
 - [x] - J.R.R. Tolkien - Two Towers
 - [x] - J.R.R. Tolkien - Return of the King
@@ -21,4 +21,9 @@
 - [x] - J.R.R. Tolkien - Silmarillion
 - [x] - Ernesto Sabato - The Tunnel
 - [x] - William Golding - Lord of the Flies
-- [x] - Steven Pressfield - Tides of Warx
+- [x] - Steven Pressfield - Tides of War
+- [x] - Steven Pressfield - Virtues of War
+- [x] - Eckhart Tolle - New Earth
+- [x] - Eckhart Tolle - The Power of Now
+- [x] - Napoleon Hill - Outwitting the Devil
+- [x] - Ernest Hemingway - Across the River and into the Trees
