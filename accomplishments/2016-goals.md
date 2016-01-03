@@ -2,6 +2,7 @@
 # Technologies to master ( in this order of importance )
 
 - Deep understanding of native JavaScript
+- TDD
 - React.JS
 - Webpack
 - ES6
