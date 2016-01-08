@@ -51,3 +51,23 @@
 - [x] Listened to Pluralsight course on starting with Webpack
 - [x] Developed starting webapp structure for couple of friends to play with. Added simple content and commented every single line of code for them to get familiar.
 - [x] Read couple of chapters of Eric Elliot's [JS book](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/)
+
+## January 3, 2016
+### Things I did this week
+
+- [x] Started 365 quotes project - web app with one quote for each day, each quote styled originally
+- [x] Designed 15 pages for the project
+- [x] Learn more about TDD
+- [x] Continue testing the framework by including in all of this week's projects
+- [x] Continue teaching friends how to develop web apps. Check in with them every day!
+- [x] Listen to Egghead's introduction to React
+- [x] Listen to Pluralsight introductio nto React
+- [x] Write about my dev goals for 2016 (did not finish)
+- [x] Started the quiz game app with friends
+- [x] Developed the functionality for the beginner level of the game
+- [x] Listened to JavaScript Air podcast about Unit testing
+- [x] Updated some portfolio website styling
+- [x] Started watching some drawing tutorials and created couple of drawings for the game app
+- [x] Definitely moved to gulp as a build tool for the projects
+- [x] Started listening really nice Egghead's - Building a React.js app tutorial
+- [x] Listened to Joe Eames' tutorial on Webpack foundamentals

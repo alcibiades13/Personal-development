@@ -2,6 +2,7 @@
 # Technologies to master ( in this order of importance )
 
 - Deep understanding of native JavaScript
+- Functional programming and prototypal inheritance
 - TDD
 - React.JS
 - Webpack
