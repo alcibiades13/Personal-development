@@ -137,3 +137,18 @@
  - FUCK THE RULES - *RESPONSIBLY*
  - Robots don't have imagination and curiousity. They don't have heart.
  - We need to keep our heart, step away from twitter, not just look at the rules
+
+
+## Lo-Dash and JavaScript Performance Optimizations - John-David Dalton
+
+- Put correctness before performance
+- **matches** function - you pass in an object - it creates a funcion that will compare whatever object it's given with original object
+
+
+
+
+## Webpack Tutorial - Replace Gulp/Grunt plugins with a single tool
+
+- Back in the day, Require.js came out. Few years ago Browserify came out and started winning. And then Webpack is now battling with browserify. If you're into React, I would definitely pick webpack. It's more featureful.
+
+- Use the entry point to start the requiring (dependency) path. (Usually it's called index.js or scripts .js)

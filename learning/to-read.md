@@ -20,3 +20,4 @@
 - [x] How to forget jQuery and start using native js - [link](http://blog.romanliutikov.com/post/63383858003/how-to-forget-about-jquery-and-start-using-native)
 - [ ] [How getting into Open Source has been awesome for me](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.ba4yvsu51)
 - [ ] Web/graphic design [predictions](https://ernestoolivares.com/2015/12/01/graphic-design-predictions-2016/) for 2016
+- [ ] Designers on what they'll try to learn in 2016 - [link](http://alistapart.com/article/back-to-the-future-in-2016)

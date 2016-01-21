@@ -61,7 +61,7 @@
 - [x] Continue testing the framework by including in all of this week's projects
 - [x] Continue teaching friends how to develop web apps. Check in with them every day!
 - [x] Listen to Egghead's introduction to React
-- [x] Listen to Pluralsight introductio nto React
+- [x] Listen to Pluralsight introduction to React
 - [x] Write about my dev goals for 2016 (did not finish)
 - [x] Started the quiz game app with friends
 - [x] Developed the functionality for the beginner level of the game
@@ -71,3 +71,23 @@
 - [x] Definitely moved to gulp as a build tool for the projects
 - [x] Started listening really nice Egghead's - Building a React.js app tutorial
 - [x] Listened to Joe Eames' tutorial on Webpack foundamentals
+
+## January 10, 2016
+### Things I did this week
+
+- [x] Separated javascript for the first quiz level into modules. Managing with browserify.
+- [x] Read Eric Elliot's article on "How to build a high velocity development team" on Medium
+- [x] Listened Egghead's tutorial - "Building a React.js app" by Tyler McGinnis
+- [x] Started building the github notetaking app myself
+- [x] Built a starting commented project structure, passed it to friends to start practicing
+- [x] Read 7 UX design trends to watch out for in 2016 adobe blog
+- [x] Designed pages for the 365quotes project
+- [x] Added the project to portoflio website
+- [x] Fixed the scrolling issue on the portfolio
+- [x] Talked with couple of friends - possibility for the team
+- [x] Listened to awesome "Simple made easy" talk
+
+
+
+## January 17, 2016
+### Things I did this week
